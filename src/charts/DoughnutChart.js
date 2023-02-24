@@ -40,6 +40,7 @@ const DoughnutChart = () => {
     datasets: [
       {
         label: "$ Price",
+        // label: `${chart?.coins.length} Coins Available`,
         data: chart?.coins?.map((x) => x.price),
         borderWidth: 1,
         backgroundColor: [
