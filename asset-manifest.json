@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/live-crypto-coin-chart/static/js/main.e33a2426.js",
-    "index.html": "/live-crypto-coin-chart/index.html",
-    "main.e33a2426.js.map": "/live-crypto-coin-chart/static/js/main.e33a2426.js.map"
+    "main.js": "/React-Live-Crypto-Coin-App/static/js/main.e33a2426.js",
+    "index.html": "/React-Live-Crypto-Coin-App/index.html",
+    "main.e33a2426.js.map": "/React-Live-Crypto-Coin-App/static/js/main.e33a2426.js.map"
   },
   "entrypoints": [
     "static/js/main.e33a2426.js"
