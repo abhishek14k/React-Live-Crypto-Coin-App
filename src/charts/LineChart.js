@@ -8,7 +8,6 @@ import {
 import { Line } from "react-chartjs-2";
 import { Chart, registerables } from "chart.js";
 
-// ChartJS.register(BarElement);
 Chart.register(...registerables);
 
 const LineChart = () => {
@@ -46,7 +45,6 @@ const LineChart = () => {
     datasets: [
       {
         label: "$ Price",
-        // label: `${chart?.coins.length} Coins Available`,
         data: chart?.coins?.map((x) => x.price),
         borderWidth: 1,
         backgroundColor: [
