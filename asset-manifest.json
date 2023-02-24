@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/live-crypto-coin-chart/static/js/main.e33a2426.js",
+    "index.html": "/live-crypto-coin-chart/index.html",
+    "main.e33a2426.js.map": "/live-crypto-coin-chart/static/js/main.e33a2426.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e33a2426.js"
+  ]
+}
